@@ -1,17 +1,13 @@
 # Associate Data Scientist Certification - DataCamp
 
 ![DataCamp Associate Data Scientist Badge](https://img.shields.io/badge/DataCamp-Associate%20Data%20Scientist-blue.svg)  
-**Status**: In Progress (Target Completion: April 20, 2025)  
-**Author**: [Your Name]  
-**GitHub**: [Your GitHub URL]  
-**LinkedIn**: [Your LinkedIn URL]  
+**Status**: In Progress
+**Author**: Siddhant Singh 
+**GitHub**: [Github](https://github.com/beepsid) 
+**LinkedIn**: [LinkedIn](https://www.linkedin.com/in/siddzz/)
 
 ## Overview
 This repository documents my journey toward earning the **Associate Data Scientist** certification from DataCamp, as part of my B.Tech in Computer Science with AI. The certification validates foundational skills in data analysis, statistical experimentation, and communication using Python. Here, you’ll find code, projects, and notes from key courses and the final practical exam, organized into subfolders.
-
-- **Start Date**: March 23, 2025  
-- **Target Completion**: April 20, 2025  
-- **Goal**: Build job-ready skills for Data Scientist or ML Engineer roles (targeting ₹10-15 LPA post-graduation).  
 
 ## Certification Structure
 The Associate Data Scientist certification consists of:  
@@ -23,31 +19,6 @@ Preparation is being completed via the *Data Scientist with Python* career track
 
 ## Repository Structure
 Each subfolder contains Python scripts (`.py`), Jupyter notebooks (`.ipynb`), datasets, and notes from the respective course or skill area. Below is the breakdown:
-
-Associate-Data-Scientist/
-├── 01_Python-Basics/
-│   ├── intermediate_python.py        # Loops, functions, data structures
-│   └── README.md                     # Notes and exercises
-├── 02_Data-Manipulation/
-│   ├── pandas_manipulation.ipynb     # Dataframes, filtering, grouping
-│   └── README.md                     # Key concepts
-├── 03_Machine-Learning-Basics/
-│   ├── supervised_learning.ipynb     # Regression, classification with scikit-learn
-│   ├── unsupervised_learning.ipynb   # Clustering with scikit-learn
-│   └── README.md                     # ML fundamentals
-├── 04_Statistics/
-│   ├── intro_statistics.ipynb        # Hypothesis testing, distributions
-│   └── README.md                     # Stats essentials
-├── 05_Data-Visualization/
-│   ├── matplotlib_viz.ipynb          # Plots, charts with Matplotlib
-│   └── README.md                     # Visualization tips
-├── 06_Practical-Exam/
-│   ├── analysis_project.ipynb        # Final project (e.g., sales data analysis)
-│   ├── presentation.pdf              # Recorded presentation slides
-│   └── README.md                     # Project summary
-├── datasets/                         # Sample datasets used
-└── README.md                         # This file
-
 
 ### Subfolder Details
 1. **01_Python-Basics**:  
@@ -82,6 +53,6 @@ Associate-Data-Scientist/
 ## Installation
 Clone the repo and install dependencies:
 ```bash
-git clone https://github.com/[YourUsername]/Associate-Data-Scientist.git
-cd Associate-Data-Scientist
+git clone https://github.com/beepsid/data_science.git
+cd data_science
 pip install -r requirements.txt
