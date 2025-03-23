@@ -2,8 +2,8 @@
 
 ![DataCamp Associate Data Scientist Badge](https://img.shields.io/badge/DataCamp-Associate%20Data%20Scientist-blue.svg)  
 **Status**: In Progress
-**Author**: Siddhant Singh 
-**GitHub**: [Github](https://github.com/beepsid) 
+**Author**: Siddhant Singh
+**GitHub**: [Github](https://github.com/beepsid)
 **LinkedIn**: [LinkedIn](https://www.linkedin.com/in/siddzz/)
 
 ## Overview
