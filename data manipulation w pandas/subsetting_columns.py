@@ -1,4 +1,8 @@
 # Select the individuals column
+import pandas as pd
+
+homelessness=pd.read_csv("data manipulation w pandas/homelessness.csv")
+
 individuals = homelessness['individuals']
 
 print(individuals.head())
