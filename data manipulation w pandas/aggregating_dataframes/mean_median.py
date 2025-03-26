@@ -1,5 +1,5 @@
 import pandas as pd
-sales.pd.read_csv("data manipulation w pandas/sales_subset.csv")
+sales = pd.read_csv("data manipulation w pandas/aggregating_dataframes/sales.csv")
 
 # Print the head of the sales DataFrame
 print(sales.tail())
