@@ -1,5 +1,5 @@
 import pandas as pd
-homelessness=pd.read_csv("data manipulation w pandas/homelessness.csv")
+homelessness=pd.read_csv("data manipulation w pandas/transforming_dataframe/homelessness.csv")
 # Sort homelessness by individuals
 homelessness_ind = homelessness.sort_values("individuals")
 

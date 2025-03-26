@@ -1,5 +1,5 @@
 import pandas as pd
-homelessness=pd.read_csv("data manipulation w pandas/homelessness.csv")
+homelessness=pd.read_csv("data manipulation w pandas/transforming_dataframe/homelessness.csv")
 
 # Add total col as sum of individuals and family_members
 homelessness['total']=homelessness['individuals']+homelessness['family_members']

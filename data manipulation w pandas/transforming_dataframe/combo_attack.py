@@ -1,5 +1,5 @@
 import pandas as pd
-homelessness=pd.read_csv("data manipulation w pandas/homelessness.csv")
+homelessness=pd.read_csv("data manipulation w pandas/transforming_dataframe/homelessness.csv")
 
 # Create indiv_per_10k col as homeless individuals per 10k state pop
 homelessness["indiv_per_10k"] = 10000 * homelessness['individuals'] / homelessness['state_pop'] 

@@ -1,5 +1,5 @@
 import pandas as pd 
-homelessness=pd.read_csv("data manipulation w pandas/homelessness.csv")
+homelessness=pd.read_csv("data manipulation w pandas/transforming_dataframe/homelessness.csv")
 
 # Filter for rows where individuals is greater than 10000
 ind_gt_10k = homelessness[homelessness['individuals']>10000]

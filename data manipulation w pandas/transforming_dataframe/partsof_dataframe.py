@@ -1,7 +1,7 @@
 # Import pandas using the alias pd
 import pandas as pd
 
-homelessness=pd.read_csv("data manipulation w pandas/homelessness.csv")
+homelessness=pd.read_csv("data manipulation w pandas/transforming_dataframe/homelessness.csv")
 # Print the values of homelessness
 print(homelessness.values)
 

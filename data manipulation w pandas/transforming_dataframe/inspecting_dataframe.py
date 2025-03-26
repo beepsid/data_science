@@ -1,7 +1,7 @@
 import numpy as np 
 import pandas as pd
 
-homeless=pd.read_csv("data manipulation w pandas/homelessness.csv")
+homelessness=pd.read_csv("data manipulation w pandas/transforming_dataframe/homelessness.csv")
 
 # Print the head of the homelessness data
 print(homeless.head())
