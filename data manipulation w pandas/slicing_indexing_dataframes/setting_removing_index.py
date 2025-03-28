@@ -1,5 +1,6 @@
 import pandas as pd
-temperatures = pd.read_csv("data manipulation w pandas/slicing_indexing_dataframes/temperatures.csv")
+
+temperatures = pd.read_csv('data manipulation w pandas/slicing_indexing_dataframes/temperatures.csv')
 # Look at temperatures
 print(temperatures.set_index('city'))
 
